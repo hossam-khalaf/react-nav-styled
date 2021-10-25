@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/hossam-khalaf/react-nav-styled/static/css/main.751bed3e.chunk.css",
-    "main.js": "/hossam-khalaf/react-nav-styled/static/js/main.51316916.chunk.js",
-    "main.js.map": "/hossam-khalaf/react-nav-styled/static/js/main.51316916.chunk.js.map",
-    "runtime-main.js": "/hossam-khalaf/react-nav-styled/static/js/runtime-main.9415d6a4.js",
-    "runtime-main.js.map": "/hossam-khalaf/react-nav-styled/static/js/runtime-main.9415d6a4.js.map",
-    "static/js/2.a4fd5aa3.chunk.js": "/hossam-khalaf/react-nav-styled/static/js/2.a4fd5aa3.chunk.js",
-    "static/js/2.a4fd5aa3.chunk.js.map": "/hossam-khalaf/react-nav-styled/static/js/2.a4fd5aa3.chunk.js.map",
-    "static/js/3.81ef946f.chunk.js": "/hossam-khalaf/react-nav-styled/static/js/3.81ef946f.chunk.js",
-    "static/js/3.81ef946f.chunk.js.map": "/hossam-khalaf/react-nav-styled/static/js/3.81ef946f.chunk.js.map",
-    "index.html": "/hossam-khalaf/react-nav-styled/index.html",
-    "static/css/main.751bed3e.chunk.css.map": "/hossam-khalaf/react-nav-styled/static/css/main.751bed3e.chunk.css.map",
-    "static/js/2.a4fd5aa3.chunk.js.LICENSE.txt": "/hossam-khalaf/react-nav-styled/static/js/2.a4fd5aa3.chunk.js.LICENSE.txt"
+    "main.css": "/react-nav-styled/static/css/main.751bed3e.chunk.css",
+    "main.js": "/react-nav-styled/static/js/main.51316916.chunk.js",
+    "main.js.map": "/react-nav-styled/static/js/main.51316916.chunk.js.map",
+    "runtime-main.js": "/react-nav-styled/static/js/runtime-main.3fd1e255.js",
+    "runtime-main.js.map": "/react-nav-styled/static/js/runtime-main.3fd1e255.js.map",
+    "static/js/2.f5179ac1.chunk.js": "/react-nav-styled/static/js/2.f5179ac1.chunk.js",
+    "static/js/2.f5179ac1.chunk.js.map": "/react-nav-styled/static/js/2.f5179ac1.chunk.js.map",
+    "static/js/3.81ef946f.chunk.js": "/react-nav-styled/static/js/3.81ef946f.chunk.js",
+    "static/js/3.81ef946f.chunk.js.map": "/react-nav-styled/static/js/3.81ef946f.chunk.js.map",
+    "index.html": "/react-nav-styled/index.html",
+    "static/css/main.751bed3e.chunk.css.map": "/react-nav-styled/static/css/main.751bed3e.chunk.css.map",
+    "static/js/2.f5179ac1.chunk.js.LICENSE.txt": "/react-nav-styled/static/js/2.f5179ac1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9415d6a4.js",
-    "static/js/2.a4fd5aa3.chunk.js",
+    "static/js/runtime-main.3fd1e255.js",
+    "static/js/2.f5179ac1.chunk.js",
     "static/css/main.751bed3e.chunk.css",
     "static/js/main.51316916.chunk.js"
   ]
